@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JokerP515.JokerP515&left_color=red&right_color=slateblue"  />
-</div>
-
-###
-
 <h1 align="center">Hi hi, how are you?👋</h1>
 
 ###
